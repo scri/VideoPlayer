@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d625b66-f05c-4bbc-a87e-900875f22a74" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/videoplay.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/mainwid.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ctrlbar.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/audioplay.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ui_about.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ui_mainwid.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/about.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ui_ctrlbar.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/show.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/playlist.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/title.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/video.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/mgrhelper.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1dUimnARwcnrekDJOsY3gLe4xy9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myPyQtBackend" value="PyQt5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dragon\Desktop\qt\pyQt\playDemo\src" />
+      <recent name="C:\Users\Dragon\Desktop\qt\pyQt\playDemo" />
+      <recent name="C:\Users\Dragon\Desktop\qt\pyQt\playDemo\From" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mainwid">
+    <configuration name="audioplay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/audioplay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainwid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mainwid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoplay (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/videoplay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoplay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dragon\Desktop\qt\pyQt\playDemo\src\mainwid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mainwid" />
+        <item itemvalue="Python.audioplay" />
+        <item itemvalue="Python.videoplay (1)" />
+        <item itemvalue="Python.videoplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d625b66-f05c-4bbc-a87e-900875f22a74" name="Default Changelist" comment="" />
+      <created>1592486233846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592486233846</updated>
+      <workItem from="1592486235030" duration="1286000" />
+      <workItem from="1592533540853" duration="5941000" />
+      <workItem from="1592544967743" duration="16899000" />
+      <workItem from="1592573278601" duration="14000" />
+      <workItem from="1592618243151" duration="32540000" />
+      <workItem from="1592708992419" duration="41000" />
+      <workItem from="1592709070795" duration="40075000" />
+      <workItem from="1592810622660" duration="21970000" />
+      <workItem from="1592891688161" duration="17167000" />
+      <workItem from="1592964015006" duration="12980000" />
+      <workItem from="1592989341983" duration="13030000" />
+      <workItem from="1593050099464" duration="4313000" />
+      <workItem from="1593056173239" duration="13123000" />
+      <workItem from="1593139844170" duration="22535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/playDemo$audioplay.coverage" NAME="audioplay Coverage Results" MODIFIED="1593148999774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/playDemo$mainwid.coverage" NAME="mainwid Coverage Results" MODIFIED="1593165679770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/playDemo$videoplay__1_.coverage" NAME="videoplay (1) Coverage Results" MODIFIED="1593148339352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/playDemo$videoplay.coverage" NAME="videoplay Coverage Results" MODIFIED="1592662109743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
