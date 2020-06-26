@@ -20,6 +20,6 @@ pyAv使用文档:
 
 播放器运行截图：
 
-![](C:\Users\Dragon\Desktop\picture.PNG)
+![](https://github.com/scri/VideoPlayer/tree/master/picture/picture.PNG)
 
 视频播放器的基本功能都已经实现， 下方的进度条未写。。。。（待续）
