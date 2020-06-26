@@ -18,6 +18,9 @@ pyAv使用文档:
 
 [1]: https://programtalk.com/vs2/?source=python/8441/PyAV/examples
 
+运行：
+直接run mainwid.py
+
 播放器运行截图：
 
 ![cmd-markdown-logo](https://github.com/scri/VideoPlayer/tree/master/picture/picture.PNG)
